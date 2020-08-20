@@ -1,1 +1,1 @@
-# Wazom-Template
+# Waxom-Template
